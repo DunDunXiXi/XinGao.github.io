@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "gaoxin.jpg"
+  avatar           : "gaoxin.png"
   name             : "Xin Gao"
   pronouns         : # example: "she/her"  
   bio              : He is a Ph.D. candidate in mechanical engineering from Beijing Institute of Technologyhe is a Ph.D. candidate in mechanical engineering from Beijing Institute of Technology.
