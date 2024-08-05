@@ -1,7 +1,7 @@
 ---
 title: "Rate GQN: A Deviations-Reduced Decision-Making Strategy for Connected and Automated Vehicles in Mixed Autonomy"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2023-09-27-paper-title-number-1
 date: 2023-09-27
 venue: ' IEEE Transactions on Intelligent Transportation Systems'
 slidesurl: '10.1109/TITS.2023.3312951'
