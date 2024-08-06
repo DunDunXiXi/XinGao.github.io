@@ -16,6 +16,6 @@ Research interest
    
 Selected publications
 ======
-1. X. Gao, T. Luan, X. Li, Q. Liu, X. Meng and Z. Li, "A Human Feedback-Driven Decision-Making Method Based on Multi-Modal Deep Reinforcement Learning in Ethical Dilemma Traffic Scenarios," 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), Bilbao, Spain, 2023, pp. 6048-6055, doi: 10.1109/ITSC57777.2023.10422393.
-2. X. Gao et al., "Rate GQN: A Deviations-Reduced Decision-Making Strategy for Connected and Automated Vehicles in Mixed Autonomy," in IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 1, pp. 613-625, Jan. 2024, doi: 10.1109/TITS.2023.3312951.
+1. X. Gao, T. Luan, X. Li, Q. Liu, X. Meng and Z. Li, "A Human Feedback-Driven Decision-Making Method Based on Multi-Modal Deep Reinforcement Learning in Ethical Dilemma Traffic Scenarios," 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), Bilbao, Spain, 2023, pp. 6048-6055, doi: 10.1109/ITSC57777.2023.10422393: '10.1109/ITSC57777.2023.10422393'.
+2. X. Gao et al., "Rate GQN: A Deviations-Reduced Decision-Making Strategy for Connected and Automated Vehicles in Mixed Autonomy," in IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 1, pp. 613-625, Jan. 2024, doi: 10.1109/TITS.2023.3312951: '10.1109/TITS.2023.3312951'.
 
